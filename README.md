@@ -1,16 +1,16 @@
-## Hi there 👋
+# LT Class On
 
-<!--
-**ltclassonline/ltclassonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learn Lithuanian online with live lessons.
 
-Here are some ideas to get you started:
+## Courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A1 Lithuanian Course
+- A2 Lithuanian Course
+- B1 Lithuanian Course
+- B2 Lithuanian Course
+- Private Lessons
+- Exam Preparation
+
+## Website
+
+https://ltclassonline.lt
